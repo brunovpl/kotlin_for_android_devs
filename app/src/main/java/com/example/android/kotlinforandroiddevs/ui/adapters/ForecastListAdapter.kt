@@ -1,4 +1,4 @@
-package com.example.android.kotlinforandroiddevs.adapters
+package com.example.android.kotlinforandroiddevs.ui.adapters
 
 import android.support.v7.widget.RecyclerView
 import android.view.ViewGroup
