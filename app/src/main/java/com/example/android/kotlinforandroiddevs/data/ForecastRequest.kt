@@ -1,6 +1,5 @@
 package com.example.android.kotlinforandroiddevs.data
 
-import android.util.Log
 import com.google.gson.Gson
 import java.net.URL
 
